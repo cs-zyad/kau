@@ -1,11 +1,11 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { Layout } from './components';
 import { HomePage } from './pages';
 import './i18n';
 
 export default function App() {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Routes>
                 <Route element={<Layout />}>
                     <Route index element={<HomePage />} />
@@ -19,6 +19,6 @@ export default function App() {
                     {/* <Route path="register" element={<RegisterPage />} /> */}
                 </Route>
             </Routes>
-        </BrowserRouter>
+        </HashRouter>
     );
 }

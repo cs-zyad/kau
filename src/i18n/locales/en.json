@@ -1,0 +1,104 @@
+{
+    "app": {
+        "name": "KAU Community",
+        "tagline": "King Abdulaziz University Events Platform",
+        "university": "King Abdulaziz University"
+    },
+    "nav": {
+        "home": "Home",
+        "events": "Events",
+        "calendar": "Calendar",
+        "clubs": "Clubs",
+        "about": "About",
+        "contact": "Contact Us",
+        "login": "Login",
+        "register": "Register"
+    },
+    "hero": {
+        "title": "Discover Your University Events",
+        "subtitle": "A unified platform for all student activities and events at King Abdulaziz University in Jeddah",
+        "cta_primary": "Explore Events",
+        "cta_secondary": "Join Now",
+        "stats_events": "Upcoming Events",
+        "stats_clubs": "Student Clubs",
+        "stats_students": "Registered Students"
+    },
+    "filter": {
+        "title": "Filter Events",
+        "type": "Event Type",
+        "college": "College",
+        "date": "Date",
+        "all_types": "All Types",
+        "all_colleges": "All Colleges",
+        "all_dates": "All Dates",
+        "this_week": "This Week",
+        "this_month": "This Month",
+        "next_month": "Next Month",
+        "reset": "Reset",
+        "results": "results",
+        "no_results": "No events match your filters",
+        "no_results_hint": "Try changing the filters to find other events"
+    },
+    "events": {
+        "upcoming": "Upcoming Events",
+        "view_details": "View Details",
+        "view_all": "View All",
+        "free": "Free",
+        "paid": "Paid",
+        "online": "Online",
+        "onsite": "On-site",
+        "seats_left": "seats left",
+        "registered": "registered"
+    },
+    "event_types": {
+        "hackathon": "Hackathon",
+        "workshop": "Workshop",
+        "seminar": "Seminar",
+        "student_club": "Student Club",
+        "training": "Training Course",
+        "career_fair": "Career Fair",
+        "trip": "Trips & Activities",
+        "exhibition": "Exhibition"
+    },
+    "colleges": {
+        "computing": "Faculty of Computing & IT",
+        "engineering": "Faculty of Engineering",
+        "science": "Faculty of Science",
+        "business": "Faculty of Economics & Administration",
+        "medicine": "Faculty of Medicine",
+        "arts": "Faculty of Arts & Humanities",
+        "law": "Faculty of Law",
+        "pharmacy": "Faculty of Pharmacy",
+        "dentistry": "Faculty of Dentistry",
+        "architecture": "Faculty of Environmental Design",
+        "education": "Faculty of Education",
+        "media": "Faculty of Media & Communication"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "retry": "Retry",
+        "search": "Search...",
+        "viewAll": "View All",
+        "readMore": "Read More",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "save": "Save",
+        "delete": "Delete",
+        "edit": "Edit",
+        "close": "Close"
+    },
+    "footer": {
+        "rights": "All Rights Reserved",
+        "privacy": "Privacy Policy",
+        "terms": "Terms & Conditions",
+        "description": "KAU Community is the official digital gateway for events and activities at King Abdulaziz University in Jeddah, Saudi Arabia."
+    },
+    "language": {
+        "toggle": "العربية",
+        "current": "English"
+    }
+}

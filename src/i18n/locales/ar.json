@@ -60,6 +60,17 @@
     "trip": "رحلات وأنشطة",
     "exhibition": "معرض"
   },
+  "clubs": {
+    "title": "الأندية الطلابية",
+    "members": "عضو",
+    "join": "انضم الآن",
+    "categories": {
+      "academic": "أكاديمي",
+      "creative": "إبداعي",
+      "social": "اجتماعي",
+      "professional": "مهني"
+    }
+  },
   "colleges": {
     "computing": "كلية الحاسبات وتقنية المعلومات",
     "engineering": "كلية الهندسة",

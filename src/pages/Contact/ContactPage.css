@@ -1,0 +1,83 @@
+.contact-page {
+    padding-bottom: 80px;
+}
+
+.contact-page__header {
+    background: linear-gradient(135deg, #1a5c5c, #238787);
+    padding: 100px 0 60px;
+    margin-bottom: 60px;
+    text-align: center;
+    color: white;
+}
+
+.contact-page__title {
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.contact-page__grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+}
+
+.contact-page__info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contact-info-card {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 25px;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.contact-info-card h3 {
+    margin-bottom: 10px;
+    color: var(--primary-light);
+}
+
+.contact-page__form {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 40px;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.form-group label {
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.form-group input,
+.form-group textarea {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 12px 15px;
+    border-radius: 10px;
+    color: white;
+    font-family: inherit;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--primary-color);
+}
+
+@media (max-width: 992px) {
+    .contact-page__grid {
+        grid-template-columns: 1fr;
+    }
+}

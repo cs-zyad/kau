@@ -60,6 +60,17 @@
         "trip": "Trips & Activities",
         "exhibition": "Exhibition"
     },
+    "clubs": {
+        "title": "Student Clubs",
+        "members": "members",
+        "join": "Join Now",
+        "categories": {
+            "academic": "Academic",
+            "creative": "Creative",
+            "social": "Social",
+            "professional": "Professional"
+        }
+    },
     "colleges": {
         "computing": "Faculty of Computing & IT",
         "engineering": "Faculty of Engineering",
